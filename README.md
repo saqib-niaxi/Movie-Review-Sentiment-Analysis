@@ -52,9 +52,3 @@ A basic user interface (text input) where users can enter a movie review and get
 - Matplotlib, Seaborn (for visualizations)
 
 ---
-
-## ✅ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/movie-review-sentiment-analysis.git
-   cd movie-review-sentiment-analysis
